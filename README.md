@@ -7,8 +7,6 @@
 
 - 💻 Come and find out more about me in my portfolio <a href="https://victor-ramos.vercel.app/">victor-ramos.vercel.app</a>
 
-- ⚔ I enjoy make LeetCode challenges on my free time, you can find me at <a href="https://leetcode.com/VictorRms/">leetcode.com/VictorRms/</a>
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center"> 
   

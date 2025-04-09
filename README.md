@@ -6,7 +6,7 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/victor-ramos3/">in/victor-ramos3/</a> or on my email <a>victorrms03@gmail.com</a>
 
 - 💻 Come and find out more about me in my portfolio <a href="https://victor-ramos.vercel.app/">victor-ramos.vercel.app</a>
-- 
+
 - ⚔ I enjoy make LeetCode challenges on my free time, you can find me at <a href="https://leetcode.com/VictorRms/">leetcode.com/VictorRms/</a>
 
 <h3 align="left">🛠 Languages and Tools:</h3>

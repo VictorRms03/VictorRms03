@@ -26,16 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorRms03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorRms03&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRms03&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorRms03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">🚧 <i>Portfólio em reconstrução — projetos novos chegando em breve</i> · 💼 <i>já tenho experiência profissional real com essa stack</i></p>
